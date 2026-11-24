@@ -16,30 +16,11 @@
 
 <br>
 
-### What we work on
-
-- **Consumer products** that shape how humans connect. Most are still in the making.
-- **Conversational speech AI research**: turn-taking, fairness and robustness of speech models.
-- **AI EQ evaluation**: SUS-Bench, a leaderboard built from real games between people and AI models.
-
-<br>
-
 ### Things
 
 <p>
   <a href="https://peoplemakethings.com/things"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/things-dark.webp"><img alt="Things: AmogSchool, and more we are still making." src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/things-light.webp" width="49%"></picture></a>
   <a href="https://peoplemakethings.com/sus"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/sus-dark.webp"><img alt="SUS-Bench: the #1 AI EQ leaderboard." src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/sus-light.webp" width="49%"></picture></a>
-</p>
-
-<br>
-
-### Research
-
-<p>
-  <a href="https://arxiv.org/abs/2610.12802"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2610.12802-dark.webp"><img alt="People Making Conversation (NeurIPS 2026 Workshop)" src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2610.12802-light.webp" width="24%"></picture></a>
-  <a href="https://arxiv.org/abs/2609.27372"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27372-dark.webp"><img alt="TACT (IEEE SLT 2026)" src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27372-light.webp" width="24%"></picture></a>
-  <a href="https://arxiv.org/abs/2609.27382"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27382-dark.webp"><img alt="TRIAD and ORCA (IEEE SLT 2026)" src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27382-light.webp" width="24%"></picture></a>
-  <a href="https://arxiv.org/abs/2609.27378"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27378-dark.webp"><img alt="PALS (IEEE SLT 2026)" src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/paper-2609.27378-light.webp" width="24%"></picture></a>
 </p>
 
 <br>
