@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://peoplemakethings.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="People Make Things, Inc." src="assets/banner-light.png" width="100%"></picture>
-  </a>
+  <a href="https://peoplemakethings.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png"><img alt="People Make Things, Inc." src="assets/banner-light.png" width="100%"></picture></a>
 </p>
 
 <p align="center">
