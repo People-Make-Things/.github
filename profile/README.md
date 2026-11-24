@@ -16,14 +16,6 @@
 
 <br>
 
-- **Consumer products** that shape how humans connect. Most are still in the making.
-- **Conversational speech AI research**: turn-taking, fairness and robustness of speech models.
-- **AI EQ evaluation**: SUS-Bench, a leaderboard built from real games between people and AI models.
-
-<br>
-
-### Things
-
 <p>
   <a href="https://peoplemakethings.com/things"><img alt="Things: AmogSchool, and more we are still making." src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/things-card.webp" width="49%"></a>
   <a href="https://peoplemakethings.com/sus"><img alt="SUS-Bench: the #1 AI EQ leaderboard." src="https://raw.githubusercontent.com/People-Make-Things/.github/main/profile/assets/sus-card.webp" width="49%"></a>
