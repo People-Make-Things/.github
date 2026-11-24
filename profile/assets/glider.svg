@@ -1,0 +1,1329 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="252" height="110" viewBox="0 0 252 110" role="img" aria-label="A Game of Life glider crossing a tiny grid"><style>
+text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:12px;white-space:pre}
+.d{fill:#8b949e;opacity:.32} .a{fill:#8b949e} .g{fill:#8b949e;font-size:10px;opacity:.8}
+.f{opacity:0;animation:k 16.80s step-end infinite}
+@keyframes k{0%{opacity:1}0.8333%{opacity:0}100%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}.f0{opacity:1}}
+</style>
+<defs><text id="z" class="d" x="0" y="0" textLength="252" lengthAdjust="spacing" xml:space="preserve">······························</text></defs>
+<g class="f f0" style="animation-delay:0.00s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ····························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                            </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· ···························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">  #                           </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ···························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">###                           </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 000</text></g>
+<g class="f f1" style="animation-delay:0.14s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> · ···························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"># #                           </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·  ···························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ##                           </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ····························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                            </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 001</text></g>
+<g class="f f2" style="animation-delay:0.28s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· ···························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">  #                           </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve"> · ···························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve"># #                           </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·  ···························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ##                           </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 002</text></g>
+<g class="f f3" style="animation-delay:0.42s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ····························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                            </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··  ··························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ##                          </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·  ···························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ##                           </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 003</text></g>
+<g class="f f4" style="animation-delay:0.56s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· ···························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">  #                           </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· ··························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">   #                          </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·   ··························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ###                          </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 004</text></g>
+<g class="f f5" style="animation-delay:0.70s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">· · ··························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve"> # #                          </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··  ··························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ##                          </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· ···························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">  #                           </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 005</text></g>
+<g class="f f6" style="animation-delay:0.84s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· ··························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">   #                          </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">· · ··························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve"> # #                          </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··  ··························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ##                          </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 006</text></g>
+<g class="f f7" style="animation-delay:0.98s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· ···························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">  #                           </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···  ·························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ##                         </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··  ··························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ##                          </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 007</text></g>
+<g class="f f8" style="animation-delay:1.12s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· ··························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">   #                          </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· ·························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">    #                         </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··   ·························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ###                         </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 008</text></g>
+<g class="f f9" style="animation-delay:1.26s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· · ·························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">  # #                         </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···  ·························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ##                         </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· ··························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">   #                          </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 009</text></g>
+<g class="f f10" style="animation-delay:1.40s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· ·························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">    #                         </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·· · ·························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">  # #                         </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···  ·························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ##                         </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 010</text></g>
+<g class="f f11" style="animation-delay:1.54s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· ··························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">   #                          </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····  ························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">    ##                        </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···  ·························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ##                         </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 011</text></g>
+<g class="f f12" style="animation-delay:1.68s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· ·························</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">    #                         </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· ························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">     #                        </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···   ························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">   ###                        </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 012</text></g>
+<g class="f f13" style="animation-delay:1.82s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· ·························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">    #                         </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· · ························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">   # #                        </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····  ························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">    ##                        </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 013</text></g>
+<g class="f f14" style="animation-delay:1.96s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····  ························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">    ##                        </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· ························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">     #                        </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··· · ························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">   # #                        </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 014</text></g>
+<g class="f f15" style="animation-delay:2.10s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····  ························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">    ##                        </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· ·························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">    #                         </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····  ·······················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">     ##                       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 015</text></g>
+<g class="f f16" style="animation-delay:2.24s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····   ·······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">    ###                       </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· ························</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">     #                        </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ ·······················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">      #                       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 016</text></g>
+<g class="f f17" style="animation-delay:2.38s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····  ·······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">     ##                       </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· ························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">     #                        </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· · ·······················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">    # #                       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 017</text></g>
+<g class="f f18" style="animation-delay:2.52s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">···· · ·······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">    # #                       </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····  ·······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">     ##                       </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ ·······················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">      #                       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 018</text></g>
+<g class="f f19" style="animation-delay:2.66s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······  ······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">      ##                      </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····  ·······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">     ##                       </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· ························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">     #                        </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 019</text></g>
+<g class="f f20" style="animation-delay:2.80s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· ······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">       #                      </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····   ······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">     ###                      </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ ·······················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">      #                       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 020</text></g>
+<g class="f f21" style="animation-delay:2.94s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· · ······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">     # #                      </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">······  ······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">      ##                      </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ ·······················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">      #                       </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 021</text></g>
+<g class="f f22" style="animation-delay:3.08s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· ······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">       #                      </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">····· · ······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">     # #                      </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······  ······················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">      ##                      </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 022</text></g>
+<g class="f f23" style="animation-delay:3.22s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ ·······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">      #                       </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······  ·····················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">       ##                     </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······  ······················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">      ##                      </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 023</text></g>
+<g class="f f24" style="animation-delay:3.36s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· ······················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">       #                      </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ ·····················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">        #                     </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······   ·····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">      ###                     </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 024</text></g>
+<g class="f f25" style="animation-delay:3.50s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ · ·····················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">      # #                     </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······  ·····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">       ##                     </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· ······················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">       #                      </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 025</text></g>
+<g class="f f26" style="animation-delay:3.64s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ ·····················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">        #                     </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······ · ·····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">      # #                     </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······  ·····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">       ##                     </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 026</text></g>
+<g class="f f27" style="animation-delay:3.78s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· ······················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">       #                      </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">········  ····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">        ##                    </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······  ·····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">       ##                     </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 027</text></g>
+<g class="f f28" style="animation-delay:3.92s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ ·····················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">        #                     </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· ····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">         #                    </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······   ····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">       ###                    </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 028</text></g>
+<g class="f f29" style="animation-delay:4.06s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· · ····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">       # #                    </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">········  ····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">        ##                    </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ ·····················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">        #                     </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 029</text></g>
+<g class="f f30" style="animation-delay:4.20s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· ····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">         #                    </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">······· · ····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">       # #                    </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········  ····················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">        ##                    </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 030</text></g>
+<g class="f f31" style="animation-delay:4.34s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ ·····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">        #                     </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········  ···················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">         ##                   </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········  ····················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">        ##                    </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 031</text></g>
+<g class="f f32" style="animation-delay:4.48s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· ····················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">         #                    </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· ···················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">          #                   </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········   ···················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">        ###                   </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 032</text></g>
+<g class="f f33" style="animation-delay:4.62s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ · ···················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">        # #                   </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········  ···················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">         ##                   </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· ····················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">         #                    </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 033</text></g>
+<g class="f f34" style="animation-delay:4.76s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· ···················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">          #                   </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········ · ···················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">        # #                   </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········  ···················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">         ##                   </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 034</text></g>
+<g class="f f35" style="animation-delay:4.90s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· ····················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">         #                    </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········  ··················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">          ##                  </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········  ···················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">         ##                   </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 035</text></g>
+<g class="f f36" style="animation-delay:5.04s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· ···················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">          #                   </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· ··················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">           #                  </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········   ··················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">         ###                  </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 036</text></g>
+<g class="f f37" style="animation-delay:5.18s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· ···················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">          #                   </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· · ··················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">         # #                  </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········  ··················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">          ##                  </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 037</text></g>
+<g class="f f38" style="animation-delay:5.32s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········  ··················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">          ##                  </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· ··················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">           #                  </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">········· · ··················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">         # #                  </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 038</text></g>
+<g class="f f39" style="animation-delay:5.46s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········  ··················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">          ##                  </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· ···················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">          #                   </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···········  ·················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">           ##                 </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 039</text></g>
+<g class="f f40" style="animation-delay:5.60s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········   ·················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">          ###                 </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· ··················</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">           #                  </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ ·················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">            #                 </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 040</text></g>
+<g class="f f41" style="animation-delay:5.74s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">···········  ·················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">           ##                 </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· ··················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">           #                  </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· · ·················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">          # #                 </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 041</text></g>
+<g class="f f42" style="animation-delay:5.88s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·········· · ·················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">          # #                 </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···········  ·················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">           ##                 </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ ·················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">            #                 </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 042</text></g>
+<g class="f f43" style="animation-delay:6.02s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">············  ················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">            ##                </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···········  ·················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">           ##                 </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· ··················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">           #                  </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 043</text></g>
+<g class="f f44" style="animation-delay:6.16s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· ················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">             #                </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···········   ················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">           ###                </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ ·················</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">            #                 </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 044</text></g>
+<g class="f f45" style="animation-delay:6.30s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· · ················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">           # #                </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">············  ················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">            ##                </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ ·················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">            #                 </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 045</text></g>
+<g class="f f46" style="animation-delay:6.44s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· ················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">             #                </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">··········· · ················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">           # #                </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············  ················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">            ##                </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 046</text></g>
+<g class="f f47" style="animation-delay:6.58s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ ·················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">            #                 </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············  ···············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">             ##               </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············  ················</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">            ##                </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 047</text></g>
+<g class="f f48" style="animation-delay:6.72s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· ················</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">             #                </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· ···············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">              #               </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············   ···············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">            ###               </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 048</text></g>
+<g class="f f49" style="animation-delay:6.86s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ · ···············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">            # #               </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············  ···············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">             ##               </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· ················</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">             #                </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 049</text></g>
+<g class="f f50" style="animation-delay:7.00s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· ···············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">              #               </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············ · ···············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">            # #               </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············  ···············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">             ##               </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 050</text></g>
+<g class="f f51" style="animation-delay:7.14s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· ················</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">             #                </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············  ··············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">              ##              </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············  ···············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">             ##               </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 051</text></g>
+<g class="f f52" style="animation-delay:7.28s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· ···············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">              #               </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· ··············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">               #              </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············   ··············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">             ###              </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 052</text></g>
+<g class="f f53" style="animation-delay:7.42s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· · ··············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">             # #              </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············  ··············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">              ##              </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· ···············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">              #               </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 053</text></g>
+<g class="f f54" style="animation-delay:7.56s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· ··············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">               #              </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">············· · ··············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">             # #              </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············  ··············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">              ##              </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 054</text></g>
+<g class="f f55" style="animation-delay:7.70s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· ···············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">              #               </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···············  ·············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">               ##             </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············  ··············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">              ##              </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 055</text></g>
+<g class="f f56" style="animation-delay:7.84s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· ··············</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">               #              </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ ·············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                #             </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············   ·············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">              ###             </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 056</text></g>
+<g class="f f57" style="animation-delay:7.98s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· · ·············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">              # #             </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···············  ·············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">               ##             </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· ··············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">               #              </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 057</text></g>
+<g class="f f58" style="animation-delay:8.12s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ ·············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                #             </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·············· · ·············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">              # #             </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···············  ·············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">               ##             </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 058</text></g>
+<g class="f f59" style="animation-delay:8.26s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· ··············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">               #              </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">················  ············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                ##            </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···············  ·············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">               ##             </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 059</text></g>
+<g class="f f60" style="animation-delay:8.40s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ ·············</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                #             </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· ············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 #            </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···············   ············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">               ###            </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 060</text></g>
+<g class="f f61" style="animation-delay:8.54s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ ·············</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                #             </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· · ············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">               # #            </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">················  ············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                ##            </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 061</text></g>
+<g class="f f62" style="animation-delay:8.68s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················  ············</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                ##            </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· ············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 #            </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··············· · ············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">               # #            </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 062</text></g>
+<g class="f f63" style="animation-delay:8.82s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················  ············</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                ##            </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ ·············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                #             </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················  ···········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 ##           </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 063</text></g>
+<g class="f f64" style="animation-delay:8.96s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················   ···········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                ###           </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· ············</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 #            </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· ···········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  #           </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 064</text></g>
+<g class="f f65" style="animation-delay:9.10s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················  ···········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 ##           </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· ············</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 #            </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ · ···········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                # #           </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 065</text></g>
+<g class="f f66" style="animation-delay:9.24s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················ · ···········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                # #           </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················  ···········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 ##           </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· ···········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  #           </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 066</text></g>
+<g class="f f67" style="animation-delay:9.38s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················  ··········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  ##          </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················  ···········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 ##           </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· ············</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 #            </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 067</text></g>
+<g class="f f68" style="animation-delay:9.52s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· ··········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   #          </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················   ··········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 ###          </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· ···········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  #           </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 068</text></g>
+<g class="f f69" style="animation-delay:9.66s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· · ··········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 # #          </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················  ··········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  ##          </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· ···········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  #           </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 069</text></g>
+<g class="f f70" style="animation-delay:9.80s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· ··········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   #          </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">················· · ··········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                 # #          </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················  ··········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  ##          </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 070</text></g>
+<g class="f f71" style="animation-delay:9.94s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· ···········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  #           </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················  ·········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   ##         </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················  ··········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  ##          </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 071</text></g>
+<g class="f f72" style="animation-delay:10.08s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· ··········</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   #          </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· ·········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    #         </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················   ·········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  ###         </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 072</text></g>
+<g class="f f73" style="animation-delay:10.22s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· · ·········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  # #         </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················  ·········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   ##         </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· ··········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   #          </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 073</text></g>
+<g class="f f74" style="animation-delay:10.36s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· ·········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    #         </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·················· · ·········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                  # #         </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················  ·········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   ##         </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 074</text></g>
+<g class="f f75" style="animation-delay:10.50s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· ··········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   #          </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················  ········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    ##        </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················  ·········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   ##         </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 075</text></g>
+<g class="f f76" style="animation-delay:10.64s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· ·········</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    #         </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· ········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     #        </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················   ········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   ###        </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 076</text></g>
+<g class="f f77" style="animation-delay:10.78s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· · ········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   # #        </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················  ········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    ##        </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· ·········</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    #         </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 077</text></g>
+<g class="f f78" style="animation-delay:10.92s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· ········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     #        </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··················· · ········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                   # #        </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················  ········</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    ##        </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 078</text></g>
+<g class="f f79" style="animation-delay:11.06s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· ·········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    #         </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····················  ·······</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     ##       </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················  ········</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    ##        </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 079</text></g>
+<g class="f f80" style="animation-delay:11.20s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· ········</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     #        </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ ·······</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      #       </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················   ·······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    ###       </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 080</text></g>
+<g class="f f81" style="animation-delay:11.34s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· · ·······</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    # #       </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····················  ·······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     ##       </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· ········</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     #        </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 081</text></g>
+<g class="f f82" style="animation-delay:11.48s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ ·······</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      #       </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···················· · ·······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                    # #       </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····················  ·······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     ##       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 082</text></g>
+<g class="f f83" style="animation-delay:11.62s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· ········</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     #        </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················  ······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      ##      </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····················  ·······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     ##       </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 083</text></g>
+<g class="f f84" style="animation-delay:11.76s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ ·······</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      #       </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· ······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       #      </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·····················   ······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     ###      </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 084</text></g>
+<g class="f f85" style="animation-delay:11.90s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ ·······</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      #       </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· · ······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     # #      </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················  ······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      ##      </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 085</text></g>
+<g class="f f86" style="animation-delay:12.04s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················  ······</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      ##      </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· ······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       #      </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····················· · ······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                     # #      </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 086</text></g>
+<g class="f f87" style="animation-delay:12.18s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················  ······</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      ##      </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ ·······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      #       </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······················  ·····</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       ##     </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 087</text></g>
+<g class="f f88" style="animation-delay:12.32s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················   ·····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      ###     </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· ······</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       #      </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ ·····</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        #     </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 088</text></g>
+<g class="f f89" style="animation-delay:12.46s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······················  ·····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       ##     </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· ······</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       #      </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ · ·····</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      # #     </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 089</text></g>
+<g class="f f90" style="animation-delay:12.60s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················ · ·····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                      # #     </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······················  ·····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       ##     </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ ·····</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        #     </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 090</text></g>
+<g class="f f91" style="animation-delay:12.74s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">························  ····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        ##    </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······················  ·····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       ##     </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· ······</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       #      </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 091</text></g>
+<g class="f f92" style="animation-delay:12.88s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· ····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         #    </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·······················   ····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       ###    </text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ ·····</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        #     </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 092</text></g>
+<g class="f f93" style="animation-delay:13.02s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· · ····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       # #    </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">························  ····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        ##    </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ ·····</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        #     </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 093</text></g>
+<g class="f f94" style="animation-delay:13.16s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· ····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         #    </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">······················· · ····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                       # #    </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························  ····</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        ##    </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 094</text></g>
+<g class="f f95" style="animation-delay:13.30s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ ·····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        #     </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························  ···</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         ##   </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························  ····</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        ##    </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 095</text></g>
+<g class="f f96" style="animation-delay:13.44s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· ····</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         #    </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· ···</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          #   </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························   ···</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        ###   </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 096</text></g>
+<g class="f f97" style="animation-delay:13.58s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ · ···</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        # #   </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························  ···</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         ##   </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· ····</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         #    </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 097</text></g>
+<g class="f f98" style="animation-delay:13.72s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· ···</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          #   </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························ · ···</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                        # #   </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························  ···</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         ##   </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 098</text></g>
+<g class="f f99" style="animation-delay:13.86s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· ····</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         #    </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························  ··</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          ##  </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························  ···</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         ##   </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 099</text></g>
+<g class="f f100" style="animation-delay:14.00s">
+<use href="#z" y="20"/>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· ···</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          #   </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· ··</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           #  </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························   ··</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         ###  </text>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 100</text></g>
+<g class="f f101" style="animation-delay:14.14s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· · ··</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         # #  </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························  ··</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          ##  </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· ···</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          #   </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 101</text></g>
+<g class="f f102" style="animation-delay:14.28s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· ··</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           #  </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">························· · ··</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                         # #  </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························  ··</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          ##  </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 102</text></g>
+<g class="f f103" style="animation-delay:14.42s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· ···</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          #   </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························  ·</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           ## </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························  ··</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          ##  </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 103</text></g>
+<g class="f f104" style="animation-delay:14.56s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· ··</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           #  </text>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························· ·</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            # </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························   ·</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          ### </text>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 104</text></g>
+<g class="f f105" style="animation-delay:14.70s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· · ·</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          # # </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························  ·</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           ## </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· ··</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           #  </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 105</text></g>
+<g class="f f106" style="animation-delay:14.84s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························· ·</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            # </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">·························· · ·</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                          # # </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························  ·</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           ## </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 106</text></g>
+<g class="f f107" style="animation-delay:14.98s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· ··</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           #  </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························  </text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            ##</text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························  ·</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           ## </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 107</text></g>
+<g class="f f108" style="animation-delay:15.12s">
+<use href="#z" y="20"/>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<text class="d" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························· ·</text>
+<text class="a" x="0" y="59" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            # </text>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························· </text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                             #</text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························   </text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           ###</text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 108</text></g>
+<g class="f f109" style="animation-delay:15.26s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························· ·</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            # </text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· · </text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           # #</text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························  </text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            ##</text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 109</text></g>
+<g class="f f110" style="animation-delay:15.40s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························  </text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            ##</text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························· </text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                             #</text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">··························· · </text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                           # #</text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 110</text></g>
+<g class="f f111" style="animation-delay:15.54s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························  </text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            ##</text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">···························· ·</text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                            # </text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ···························· </text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                            #</text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 111</text></g>
+<g class="f f112" style="animation-delay:15.68s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ···························  </text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                           ##</text>
+<use href="#z" y="33"/>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<text class="d" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························· </text>
+<text class="a" x="0" y="72" textLength="252" lengthAdjust="spacing" xml:space="preserve">                             #</text>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ·····························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                             </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 112</text></g>
+<g class="f f113" style="animation-delay:15.82s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ···························· </text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                            #</text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························· </text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">                             #</text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ··························· ·</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                           # </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 113</text></g>
+<g class="f f114" style="animation-delay:15.96s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ··························· ·</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                           # </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ···························· </text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                            #</text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ·····························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                             </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 114</text></g>
+<g class="f f115" style="animation-delay:16.10s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ····························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">##                            </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ···························· </text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                            #</text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">····························· </text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">                             #</text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 115</text></g>
+<g class="f f116" style="animation-delay:16.24s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ····························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                            </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ··························· </text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">##                           #</text>
+<use href="#z" y="46"/>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<text class="d" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ·····························</text>
+<text class="a" x="0" y="85" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                             </text>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 116</text></g>
+<g class="f f117" style="animation-delay:16.38s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ··························· </text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                           #</text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ····························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">##                            </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ·····························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                             </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 117</text></g>
+<g class="f f118" style="animation-delay:16.52s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ····························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                            </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">· ··························· </text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> #                           #</text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ····························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">##                            </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 118</text></g>
+<g class="f f119" style="animation-delay:16.66s">
+<text class="d" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ·····························</text>
+<text class="a" x="0" y="20" textLength="252" lengthAdjust="spacing" xml:space="preserve">#                             </text>
+<text class="d" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve">·  ···························</text>
+<text class="a" x="0" y="33" textLength="252" lengthAdjust="spacing" xml:space="preserve"> ##                           </text>
+<text class="d" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">  ····························</text>
+<text class="a" x="0" y="46" textLength="252" lengthAdjust="spacing" xml:space="preserve">##                            </text>
+<use href="#z" y="59"/>
+<use href="#z" y="72"/>
+<use href="#z" y="85"/>
+<text class="g" x="252" y="106" text-anchor="end">B3/S23 · gen 119</text></g>
+</svg>
